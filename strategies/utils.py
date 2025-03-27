@@ -1,0 +1,1 @@
+# Strategy helper functions
